@@ -1,0 +1,8 @@
+@import './assets/styles/_utilites.scss';
+
+/* Global */
+a:link,
+a:visited {
+	color: currentColor;
+	text-decoration: none;
+}
